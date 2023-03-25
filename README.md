@@ -30,4 +30,4 @@ You can now get answer of any prompted question with video explaination.
 3. Viola! You have recieved your question's answer.
 
 # Usage
-This script is intended for educational and experimental purposes only. It should not be used to violate the terms of use of monkeytype.com or any other website. Use this script at your own risk.
+This script is intended for educational and experimental purposes only. It should not be used to violate the terms of use of doubtnut.com or any other website. Use this script at your own risk.
